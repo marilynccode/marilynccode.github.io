@@ -8,8 +8,6 @@ body {
   font-family: "Helvetica",Arial , sans serif ;
   margin: 10% 20%;
 }
-
-
 .exp-header {
   text-align: center;
   text-transform: uppercase;
@@ -17,3 +15,4 @@ body {
   border-bottom: 1px solid #FFFBFF;
   background-color: rgba (0,0,0, 0.1)
 }
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/cursors/cur-12/cur1103.ani), url(https://ani.cursors-4u.net/cursors/cur-12/cur1103.png), auto !important;} /* End https://www.cursors-4u.com */
